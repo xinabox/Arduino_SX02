@@ -13,7 +13,7 @@
 *************************************************************/
 
 #include <xCore.h>
-#include <Arduino_SX02.h>
+#include <arduino-SX02.h>
 
 xSX02 SX02;
 
