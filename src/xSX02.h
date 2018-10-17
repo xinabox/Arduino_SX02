@@ -11,8 +11,8 @@
 	ADC081C021 - http://www.ti.com/lit/ds/symlink/adc081c021.pdf
 */
 
-#ifndef arduino-SX02_h
-#define arduino-SX02_h
+#ifndef xSX02_h
+#define xSX02_h
 
 // System Include
 #include <inttypes.h>
