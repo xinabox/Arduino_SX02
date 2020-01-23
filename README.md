@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/xinabox/arduino-SX02.svg?branch=master)](https://travis-ci.org/xinabox/arduino-SX02)
+[![GitHub issues](https://img.shields.io/github/issues/xinabox/arduino-SX02.svg)](https://github.com/xinabox/arduino-SX02/issues)
+
 # ☒CHIP SX02
 <img src="extras/SX02 V0.5.0.JPG" width="35%" height="auto" align="right">
 Analog Input.
